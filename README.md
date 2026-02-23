@@ -28,7 +28,7 @@ To deploy this system on your local machine or server, run:
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/data-soul-ecommerce.git](https://github.com/yourusername/data-soul-ecommerce.git)
+git clone [https://github.com/Panterafd/Data-Soul.git](https://github.com/Panterafd/Data-Soul.git)
 
 # Navigate to directory
 cd data-soul-ecommerce
